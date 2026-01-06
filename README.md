@@ -19,7 +19,7 @@ This profile is mainly for **personal projects, prototypes, experiments, and alg
 
 ## Skills snapshot 🧰
 **Languages 💻**
-- TypeScript/Node.js, Java, Python, C/C++
+- TypeScript/Node.js, Java, Python, C/C++, PHP
 
 **Frontend 🎨**
 - Angular, React, HTML, SCSS
