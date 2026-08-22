@@ -1,4 +1,4 @@
-Senior full-stack / backend engineer with **15+ years** of experience building and operating **scalable, distributed systems**—from product features to platform APIs, integrations, and cloud infrastructure 🚀
+Senior AI / full-stack / backend engineer / MLOps / DevOps with **17+ years** of experience building and operating **scalable, distributed systems**—from product features to platform APIs, integrations, cloud infrastructure and Agentic AI solutions 🚀
 
 ## Quick context 🧭
 - 🗓️ **On GitHub since 2010** (original account). Lost access in **2021**.
